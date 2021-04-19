@@ -8,7 +8,7 @@ export const Post = ({posts}) => {
                 <PostCard
                     key={post.id}
                     id={post.id}
-                    url={post.urls.regular}
+                    url={post.urls.small}
                     title={post.title}
                     body={post.body}
                 />
