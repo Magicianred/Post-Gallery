@@ -15,7 +15,7 @@ O principal objetivo foi aplicar os conhecimentos que tinha estudado, tanto para
   - Node.js
   - Será necessário gerar a sua api_key da api do unsplash [unsplash_api_key](https://unsplash.com/developers)
 
-  ## Executando
+  ## Iniciando
   ```bash
   # clonar repositório
   git clone https://github.com/GuilhermeAlvarez-00/Post-Gallery.git
