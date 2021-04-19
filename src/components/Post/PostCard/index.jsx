@@ -7,6 +7,7 @@ export const PostCard = ({title, body, url}) => {
             <div className="post-content">
                 <h2>{title}</h2>
                 <p>{body}</p>
+                <a href="/">Read more...</a>
             </div>
         </div>
     )

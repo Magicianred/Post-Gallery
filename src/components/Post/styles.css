@@ -1,0 +1,22 @@
+.post-container{
+    column-count: 4;
+    column-gap: 20px;
+}
+
+@media screen and (max-width: 768px){
+    .post-container{
+        column-count: 3;
+    }
+}
+
+@media screen and (max-width: 648px){
+    .post-container{
+        column-count: 2;
+    }
+}
+
+@media screen and (max-width: 488px){
+    .post-container{
+        column-count: 1;
+    }
+}

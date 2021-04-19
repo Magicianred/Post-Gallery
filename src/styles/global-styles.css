@@ -4,3 +4,13 @@
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
 }
+
+:root{
+    --primary-color: #F31E58;
+}
+
+body{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url('../assets/Endless-Constellation.svg');
+}
